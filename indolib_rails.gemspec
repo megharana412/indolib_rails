@@ -19,10 +19,10 @@ Gem::Specification.new do |spec|
 
     spec.extra_rdoc_files = ['README.md']
 
-    spec.add_dependency 'ruby-indolib-api', '~> 3.1'
-    spec.add_dependency 'ruby-zip', '~> 2.3'
-    spec.add_development_dependency 'rubocop', '~> 0.60'
-    spec.add_development_dependency 'rubocop-performance', '~> 1.5'
-    spec.add_development_dependency 'rubocop-rspec', '~> 1.37'
-
+    # spec.add_dependency 'ruby-indolib-api', '~> 3.1'
+    # spec.add_dependency 'ruby-zip', '~> 2.3'
+    # #spec.add_development_dependency 'rubocop', '~> 1.0'
+    # spec.add_development_dependency 'rubocop', '~> 0.87'
+    # spec.add_development_dependency 'rubocop-performance', '~> 1.10.2'
+    # spec.add_development_dependency 'rubocop-rspec', '~> 1.37'
 end
