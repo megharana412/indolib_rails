@@ -1,4 +1,4 @@
-require File.expand_path('lib/lokalise_rails/version', __dir__)
+require File.expand_path('lib/indolib_rails/version', __dir__)
 Gem::Specification.new do |spec|
     spec.name                  = 'indolib_rails'
     spec.version               = IndolibRails::VERSION
