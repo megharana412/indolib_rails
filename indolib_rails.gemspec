@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
     spec.email                 = ['megha.rana@iwcts.com']
     spec.summary               = 'Indolib integration for Ruby on Rails'
     spec.description           = 'This gem allows to convert different time zones to local server time zone'
-    spec.homepage              = 'https://github.com/megha0412/indolib_rails.git'
+    spec.homepage              = 'https://github.com/megharana412/indolib_rails.git'
     spec.license               = 'MIT'
     spec.platform              = Gem::Platform::RUBY
     spec.required_ruby_version = '>= 2.5.0'
