@@ -1,7 +1,7 @@
 require File.expand_path('lib/indolib_rails/version', __dir__)
 Gem::Specification.new do |spec|
     spec.name                  = 'indolib_rails'
-    spec.version               = IndolibRails::VERSION
+    spec.version               = '1.2.0'
     spec.authors               = ['Megha Rana']
     spec.email                 = ['megha.rana@iwcts.com']
     spec.summary               = 'Indolib integration for Ruby on Rails'
